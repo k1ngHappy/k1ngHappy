@@ -21,7 +21,8 @@ My goal is to gain knowledge in the field of front-end development.I love spend 
 
 ## Code example:
 
-``` function aclean(arr) {
+``` 
+function aclean(arr) {
  let map = new Map();
 
  for (let word of arr) {
