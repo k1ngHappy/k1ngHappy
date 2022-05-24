@@ -19,24 +19,7 @@ My goal is to gain knowledge in the field of front-end development.I love spend 
 - Git/GitHub
 - Figma, Adobe Photoshop
 
-## Code example:
 
-``` 
-function aclean(arr) {
- let map = new Map();
-
- for (let word of arr) {
-   let sorted = word.toLowerCase().split("").sort().join("");
-   map.set(sorted, word);
- }
-
- return Array.from(map.values());
-}
-
-let arr = ["nap", "teachers", "cheaters", "PAN", "ear", "era", "hectares"];
-
-alert( aclean(arr) );
-```
 
 ## Сourses:
 
