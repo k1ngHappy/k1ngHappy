@@ -15,7 +15,7 @@ My goal is to gain knowledge in the field of front-end development.I love spend 
 
 - HTML
 - CSS(Bootstrap, SASS/SCSS)
-- JavaScript (ES6+, DOM, Asynchronous JavaScript)
+- JavaScript (ES6+, DOM, Asynchronous JavaScript, React/Redux)
 - Git/GitHub
 - Figma, Adobe Photoshop
 
