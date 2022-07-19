@@ -13,11 +13,11 @@ My goal is to gain knowledge in the field of front-end development.I love spend 
 
 ## Skills
 
-- HTML
-- CSS(Bootstrap, SASS/SCSS)
-- JavaScript (ES6+, DOM, Asynchronous JavaScript, React/Redux)
-- Git/GitHub
-- Figma, Adobe Photoshop
+- JavaScript( React, Redux, TypeScript)
+- Html/Css( Sass, bootstrap, tailwind, materialize)
+- Git/Github
+- MongoDb, MySQL
+- Figma, Adobe Phoshop
 
 
 
